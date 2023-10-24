@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @i12sleep
-- 👀 I’m interested in learning more about programming!
+- 👀 I’m interested in learning more about programming and mathematics!
 - 🌱 I’m currently studying a double degree bachelors of advanced mathematics / bachelors of science (computer science) at UNSW.
 
 <!---
